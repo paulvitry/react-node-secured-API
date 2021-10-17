@@ -1,0 +1,19 @@
+{
+  "name": "server-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js --exec"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "jwks-rsa": "^2.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
