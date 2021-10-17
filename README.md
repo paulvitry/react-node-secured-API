@@ -4,12 +4,12 @@ This is an exemple of secured API using Auth0.
 
 # Start client
 
-  yarn install
+    yarn install
   
-  yarn start
+    yarn start
   
 # Start server
  
-  yarn install
+    yarn install
   
-  yarn start
+    yarn start
